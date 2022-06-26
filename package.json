@@ -6,12 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibitto/batchMint_erc1155.git"
+  },
   "author": "",
   "license": "ISC",
   "type": "module",
+  "bugs": {
+    "url": "https://github.com/bibitto/batchMint_erc1155/issues"
+  },
+  "homepage": "https://github.com/bibitto/batchMint_erc1155#readme",
   "dependencies": {
     "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
     "fs": "^0.0.1-security"
   }
 }
